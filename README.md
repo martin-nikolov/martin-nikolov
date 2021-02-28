@@ -1,6 +1,6 @@
 ### Hello 👋
 
-👉  I'm passionate about building highly scalable and distributed cloud systems, clean architecture, SOLID principles and applying the industry's best practices into meaningful projects.
+👉  I'm passionate about building highly scalable and distributed cloud systems, applying clean architecture, SOLID principles, and the industry's best practices into meaningful projects.
 
 📰  I work at [Financial Times (FT)](https://www.ft.com/), helping with technical decision-making to support the technology strategy.
 
