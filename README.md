@@ -6,7 +6,7 @@
 
 🛰  I’m contributing to [HomePort](https://homeport.network/) ([@sferatechnologies](https://medium.com/@sferatechnologies)) - the world's first decentralized ground-station-as-a-service platform.
 
-🌱  I’m currently learning ... AWS, Azure, Kubernetes.
+🌱  I’m currently learning ... Golang, AWS, Azure, Kubernetes.
 
 ⚡  My hobbies are finances and investments in the FinTech industry.
 
