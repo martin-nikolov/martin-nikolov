@@ -4,7 +4,7 @@
 
 📰  I work at [Financial Times (FT)](https://www.ft.com/), helping with technical decision-making to support the technology strategy.
 
-🛰  I’m contributing to [HomePort](https://homeport.network/) ([@sferatechnologies](https://medium.com/@sferatechnologies)) - the world's first decentralized ground-station-as-a-service platform.
+🛰  I’m contributing to [HomePort](https://homeport.network/) ([@sferatechnologies](https://medium.com/@sferatechnologies)) – the world's first decentralized ground-station-as-a-service platform.
 
 🎯  I’m currently learning ... Golang, Azure, Kubernetes.
 
