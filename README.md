@@ -6,10 +6,12 @@
 
 🛰  I’m contributing to [HomePort](https://homeport.network/) ([@sferatechnologies](https://medium.com/@sferatechnologies)) - the world's first decentralized ground-station-as-a-service platform.
 
-🌱  I’m currently learning ... Golang, Azure, Kubernetes.
+🎯  I’m currently learning ... Golang, Azure, Kubernetes.
 
 ⚡  My hobbies are finances and investments in the FinTech industry.
 
-📫  How to reach me: https://www.linkedin.com/in/nikolov96/
+📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/nikolov96/)
+
+👉 Check out the recommendations at [LinkedIn](https://www.linkedin.com/in/nikolov96/) to get to know me better.
 
 👨  Pronouns: He/Him
