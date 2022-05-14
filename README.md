@@ -4,7 +4,7 @@
 
 🎯  I work at [Gtmhub](https://gtmhub.com/) – the world's most intuitive OKRs platform.
 
-⚡  My hobbies are finances and investments in the FinTech industry.
+⚡  My hobbies are finances and investments.
 
 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/nikolov96/) or [Twitter](https://twitter.com/mnikolov96)
 
