@@ -7,5 +7,3 @@
 📫  How to reach me: [LinkedIn](https://www.linkedin.com/in/nikolov96/) or [Twitter](https://twitter.com/mnikolov96)
 
 👉 Check out the recommendations at [LinkedIn](https://www.linkedin.com/in/nikolov96/) to get to know me better.
-
-👨  Pronouns: He/Him
